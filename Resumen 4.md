@@ -4,6 +4,7 @@ P. Cruz, C. H. Mjía - Ruiz, R. Perez-Eriquez y A. M. Ibarra. 2002.
 
 Centro de Investigaciones Biológicas del Noroeste (CIBNOR, S.C.), Mar Bermejo 195 Col. Playa Palo Santa Rita, La Paz B.C.S. México
 23090
+
 El camarón blanco (Litopenaeus vannamei) es un importante recurso pesquero y acuícola. En el noroeste de México la acuicultura de esta
 especie representa un 37% de la producción total en el país. Los marcadores moleculares de DNA han sido útiles para identificar las 
 diferencias genéticas entre poblaciones silvestres y cultivadas de esta especie. En este trabajo, se construyó una biblioteca genómica
