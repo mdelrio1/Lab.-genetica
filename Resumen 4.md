@@ -1,8 +1,4 @@
-###Aislamiento y caracterización de los microsatélites en el camarón blanco del pacífico (*Litopenaeus vannamei*)
-
-P. Cruz, C. H. Mejía - Ruiz, R. Perez-Eriquez y A. M. Ibarra. 2002.
-
-Centro de Investigaciones Biológicas del Noroeste (CIBNOR, S.C.), Mar Bermejo 195 Col. Playa Palo Santa Rita, La Paz B.C.S. México
+<center> ###Aislamiento y caracterización de los microsatélites en el camarón blanco del pacífico (*Litopenaeus vannamei*)/<center>
 
 El camarón blanco (*Litopenaeus vannamei*) es un importante recurso pesquero y acuícola. En el noroeste de México la acuicultura de esta
 especie representa un 37% de la producción total en el país. Los marcadores moleculares de DNA han sido útiles para identificar las 
@@ -19,3 +15,5 @@ De la biblioteca genómica parcial, el 42% de los clones secuenciados tenían di
 De estos siete microsatélites amplificados se identifico que 5 eran polimórficos, uno monofórmico y otro presentaba un bandeo ilegible. Hubo déficit de heterocigotos en la mayoría de los locis evaluados y esto se atribuye a la presencia de alelos nulos y al tamaño reducido de la muestra evaluada. Al menos dos de los microsatélites presentan de 12 a 14 alelos (Pvan1758 y Pvan1815) los cuales son útiles en la determinación de origen y análisis de pedigrí en programas de mejoramiento genético. 
 
 <img src="http://lifescience.biomedal.com/wp-content/uploads/2013/03/cloning.jpg" = 200%>
+
+Agregar articulo link
