@@ -16,6 +16,7 @@ pocas repeticiones (3-10 repeticiones). Así mismo, se encontraron clones con un
 De la biblioteca genómica parcial, el 42% de los clones secuenciados tenían dicho microsatélite (PVS1). Se diseñaron 32 pares de cebadores de los cuales solo amplificaron 7 y estos fueron utilizados para analizar una muestra de individuos de camarones cultivados.
 De estos siete microsatélites amplificados se identifico que 5 eran polimórficos, uno monofórmico y otro presentaba un bandeo ilegible. Hubo déficit de heterocigotos en la mayoría de los locis evaluados y esto se atribuye a la presencia de alelos nulos y al tamaño reducido de la muestra evaluada. Al menos dos de los microsatélites presentan de 12 a 14 alelos (Pvan1758 y Pvan1815) los cuales son útiles en la determinación de origen y análisis de pedigrí en programas de mejoramiento genético. 
 
+
 <img src="http://lifescience.biomedal.com/wp-content/uploads/2013/03/cloning.jpg" = 200%>
 
-Agregar articulo link
+Cruz, P., Mejia‐Ruiz, C. H., Perez‐Enriquez, R., & Ibarra, A. M. (2002). Isolation and characterization of microsatellites in Pacific white shrimp Penaeus (Litopenaeus) vannamei. Molecular Ecology Notes, 2(3), 239-241.https://www.researchgate.net/profile/Ana_M_Ibarra/publication/230096475_Isolation_and_characterization_of_microsatellites_in_Pacific_white_shrimp_Penaeus_(Litopenaeus)_vannamei/links/00b7d5149f5fa195f6000000.pdf
