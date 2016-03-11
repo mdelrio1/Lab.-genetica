@@ -1,6 +1,6 @@
 ###Aislamiento y caracterización de los microsatélites en el camarón blanco del pacífico (*Litopenaeus vannamei*)
 
-P. Cruz, C. H. Mjía - Ruiz, R. Perez-Eriquez y A. M. Ibarra. 2002.
+P. Cruz, C. H. Mejía - Ruiz, R. Perez-Eriquez y A. M. Ibarra. 2002.
 
 Centro de Investigaciones Biológicas del Noroeste (CIBNOR, S.C.), Mar Bermejo 195 Col. Playa Palo Santa Rita, La Paz B.C.S. México
 
