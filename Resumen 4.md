@@ -1,4 +1,4 @@
-<center> ###Aislamiento y caracterización de los microsatélites en el camarón blanco del pacífico (*Litopenaeus vannamei*)/<center>
+###Aislamiento y caracterización de los microsatélites en el camarón blanco del pacífico (*Litopenaeus vannamei*)
 
 El camarón blanco (*Litopenaeus vannamei*) es un importante recurso pesquero y acuícola. En el noroeste de México la acuicultura de esta
 especie representa un 37% de la producción total en el país. Los marcadores moleculares de DNA han sido útiles para identificar las 
