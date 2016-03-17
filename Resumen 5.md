@@ -1,9 +1,5 @@
 ###Aislamiento y caracterización de marcadores tipo microsatélites del camarón blanco del pacífico (*Litopenaeus vannamei*)
 
-2006
-
-Jia Zhi-Ying, Sun Xiao-Wen, Liang Li-Qun, Li Da-Yu y Lei Qing-Quans  
-
 ####Resumen
 
 El camarón blanco del pacifico es una especie que presenta características de adaptabilidad a condiciones de cultivo, tolerancia térmica, 
@@ -15,4 +11,4 @@ con el protocolo de fenol-cloroformo. El DNA obtenido fue digerido con la enzima
 
 Referencia 
 
-Zhi‐Ying, J.,  Xiao‐Wen S., Li‐Qun, L., Da‐Yu, L. y  Qing-Quans, L. (2006). Isolation and characterization of microsatellite markers from Pacific white shrimp (Litopenaeus vannamei). Molecular Ecology Notes, 6(4), 1282-1284. Link: https://scholar.google.com.mx/scholar?q=Isolation+and+characterization+of+microsatellite+markers+from+Pacific+white+shrimp+(+Litopenaeus+vannamei+)&hl=es&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwiV2MPEsMbLAhUEMGMKHeChAGYQgQMIGDAA
+Zhi‐Ying, J.,  Xiao‐Wen S., Li‐Qun, L., Da‐Yu, L. y  Qing-Quans, L. (2006). Isolation and characterization of microsatellite markers from Pacific white shrimp (*Litopenaeus vannamei*). Molecular Ecology Notes, 6(4), 1282-1284. Link: https://scholar.google.com.mx/scholar?q=Isolation+and+characterization+of+microsatellite+markers+from+Pacific+white+shrimp+(+Litopenaeus+vannamei+)&hl=es&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwiV2MPEsMbLAhUEMGMKHeChAGYQgQMIGDAA
