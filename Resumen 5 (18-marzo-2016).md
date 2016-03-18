@@ -2,8 +2,7 @@
 
 ####Resumen
 
-El camarón blanco del pacifico es una especie que presenta características de adaptabilidad a condiciones de cultivo, tolerancia térmica, 
-resistencia a altas densidades de cultivo y un amplio rango de salinidad, debido a esto fue introducido en los años 70´ al continente 
+El camarón blanco del pacifico es una especie que presenta características de adaptabilidad a condiciones de cultivo, tolerancia térmica, resistencia a altas densidades de cultivo y un amplio rango de salinidad, debido a esto fue introducido en los años 70´ al continente 
 asiático y ya que tiene una gran demanda, es importante el conocimiento de la estructura genética del camarón blanco cultivado; para
 esto el uso de microsatélites son una alternativa viable. En este estudio se desarrollaron marcadores tipo microsatélites para la 
 definir la estructura genética de camarones cultivados en China.  De muestras de musculo de camarón se realizó la extracción de DNA 
