@@ -1,4 +1,4 @@
-# Resumen-3
+# Resumen3
 Diversidad genética del ADN mitocondrial en reproductores de Litopenaeus vannamei utilizadas en el noroeste de México
 Cano-Mendoza Fernando, Grijalva-Chon José Manuel, Pérez - Enríquez Ricardo, Ramos-Paredes Josefina y Varela-Romero Alejandro.
 Revista Ciencias Marinas, volumen 39, número 4, diciembre del 2013, pp. 401-412
